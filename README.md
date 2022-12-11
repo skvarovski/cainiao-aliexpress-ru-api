@@ -1,2 +1,2 @@
 # cainiao-api-aliexpress-ru
-Cainiao API Library for Aliexpress Russia
+Cainiao API PHP Library for Aliexpress Russia
